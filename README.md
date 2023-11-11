@@ -1,4 +1,4 @@
-# BlogVerse
+# BlogPost
 
 =>BlogVerse is a web application that allows users to create, edit, delete, and showcase their blogs to the world. It comes with user authentication, registration, and other features to provide a seamless blogging experience.
 
